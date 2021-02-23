@@ -8,6 +8,7 @@ import androidx.annotation.Nullable;
 class LoginResult {
     @Nullable
     private LoggedInUserView success;
+    private LoggedInUserView success1;
     @Nullable
     private Integer error;
 
